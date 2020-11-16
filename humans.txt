@@ -1,9 +1,10 @@
+
 # humanstxt.org/
 # The humans responsible & technology colophon
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    jhonard angeles jhon
 
 # THANKS
 
